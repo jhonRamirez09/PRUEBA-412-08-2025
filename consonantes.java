@@ -10,7 +10,7 @@ public class consonantes {
         int vocales = 0;
         int consonantes = 0;
 
-        // Convertimos la palabra en arreglo de caracteres
+    
         for (char letra : palabra.toCharArray()) {
             if (letra == 'a' || letra == 'e' || letra == 'i' || letra == 'o' || letra == 'u') {
                 vocales++;
