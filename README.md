@@ -1,9 +1,39 @@
+
 # Taller de nivelación PI a PII
 
 ## Parte teorica
 
 ### que es el markdown?
 
+R/.Markdown es un lenguaje de marcado ligero que se utiliza para dar formato a textos de una manera rápida y fácil. A diferencia de otros lenguajes más complejos como HTML, Markdown es simple de escribir y leer, lo que lo hace muy popular entre programadores, estudiantes y creadores de contenido.
+
+Se emplea principalmente para escribir documentación, notas, blogs, foros y archivos de proyectos en plataformas como GitHub. Con Markdown se pueden crear títulos, resaltar texto en negrita o cursiva, añadir listas, insertar enlaces, imágenes, citas o incluso bloques de código.
+
+Los archivos escritos en este formato suelen guardarse con la extensión .md y, al abrirlos en aplicaciones compatibles, se muestran con un estilo visual ordenado y atractivo.
+
+En resumen, Markdown es una herramienta práctica que permite convertir texto plano en un documento con formato estructurado sin necesidad de conocimientos avanzados de programación.
+
+Resumen:
+
+1.# → títulos
+
+2.**texto** → negrita
+
+3.*texto* → cursiva
+
+4.- o 1. → listas
+
+5.[texto](link) → enlace
+
+6.![texto](imagen) → imagen
+
+7.> → cita
+
+8.` → código en línea
+
+9.→ bloque de código
+
+10.Tablas con | y -
 
 1. ¿Qué es un repositorio en Git y cómo se diferencia de un proyecto “normal”?
 
