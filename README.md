@@ -1,11 +1,9 @@
-# PRUEBA-412-08-2025
 # Taller de nivelación PI a PII
 
 ## Parte teorica
 
 ### que es el markdown?
 
-R/.
 
 1. ¿Qué es un repositorio en Git y cómo se diferencia de un proyecto “normal”?
 
